@@ -1,0 +1,9 @@
+D:\Mvc\Vote\PollDal\bin\Debug\netstandard2.0\PollDal.deps.json
+D:\Mvc\Vote\PollDal\bin\Debug\netstandard2.0\PollDal.dll
+D:\Mvc\Vote\PollDal\obj\Debug\netstandard2.0\PollDal.AssemblyInfoInputs.cache
+D:\Mvc\Vote\PollDal\obj\Debug\netstandard2.0\PollDal.AssemblyInfo.cs
+D:\Mvc\Vote\PollDal\obj\Debug\netstandard2.0\PollDal.csproj.CoreCompileInputs.cache
+D:\Mvc\Vote\PollDal\bin\Debug\netstandard2.0\PollDal.pdb
+D:\Mvc\Vote\PollDal\obj\Debug\netstandard2.0\PollDal.dll
+D:\Mvc\Vote\PollDal\obj\Debug\netstandard2.0\PollDal.pdb
+D:\Mvc\Vote\PollDal\obj\Debug\netstandard2.0\PollDal.csprojAssemblyReference.cache
